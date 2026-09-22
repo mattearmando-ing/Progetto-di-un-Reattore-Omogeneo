@@ -32,4 +32,4 @@ Il lavoro analizza le grandezze fisiche e ingegneristiche necessarie per la prog
 - **Librerie Nucleari:** Dati estratti da JEFF-3.3 per le sezioni d'urto.
 
 ## 📄 Full Report
-Per una descrizione dettagliata del dimensionamento, dell'analisi parametrica e dei modelli di deplezione, consulta il documento di riferimento: **DOC-20260617-WA0024_260922_151249.pdf**.
+Per una descrizione dettagliata del dimensionamento, dell'analisi parametrica e dei modelli di deplezione, consulta il documento di riferimento: **Progetto_reattore_omogeneo.pdf**.
